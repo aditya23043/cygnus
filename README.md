@@ -10,7 +10,8 @@
 | Robu.in             | 8       | 3909 (COD) | ✓        |               | 3725723     |
 | OnlyScrews          | 4       | 969        | ✓        |               | ONLSCR58241 |
 | MecKeys             | 1       | 1900 (COD) | ✓        |               | 200622      |
-| StacksKB            | 2       | 3170       | ✓        |               |             |
+| StacksKB            | 2       | 3170       | ✓        |               | 40166       |
+| MCU Holder 3d print | 5       | 204        | ✓        |               | 3726653     |
 
 ### Robu
 
@@ -61,8 +62,7 @@
 
 ---
 
-Total Cost: ₹12,285
+Total Cost: ₹12,489
 
 Stuff Left:
 - Rubber Silicone Feet
-- MCU 3D print holder
