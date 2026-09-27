@@ -9,7 +9,7 @@
 | Case                | 1       | 1223       | ✓        | 03/10         | 3725656     |
 | Robu.in             | 8       | 3909 (COD) | ✓        |               | 3725723     |
 | OnlyScrews          | 4       | 969        | ✓        |               | ONLSCR58241 |
-| MecKeys             | 1       |            |          |               |             |
+| MecKeys             | 1       | 1900 (COD) | ✓        |               | 200622      |
 | StacksKB            | 2       | 3170       | ✓        |               |             |
 
 ### Robu
@@ -42,6 +42,14 @@
 
 ### MecKeys
 
+| Item                                 | Qty | Cost |
+|--------------------------------------|-----|------|
+| GMK Modern Bean-Light Keycap (Clone) | 1   | 1900 |
+
+- Subtotal: ₹1,610.17
+- Tax: ₹289.83
+- Total: ₹1,900.00
+
 ### StacksKB
 
 | Item                          | Qty | Price  |
@@ -53,4 +61,8 @@
 
 ---
 
-Total Cost: ₹10,385
+Total Cost: ₹12,285
+
+Stuff Left:
+- Rubber Silicone Feet
+- MCU 3D print holder
