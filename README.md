@@ -3,15 +3,17 @@
 
 ## BOM
 
-| Item                | Qty     | Cost       | Ordered? | Est. Delivery | Order ID    |
-|---------------------|---------|------------|----------|---------------|-------------|
-| PCB (single switch) | 25 * 10 | 1114       | ✓        | 03/10         | 3725547     |
-| Case                | 1       | 1223       | ✓        | 03/10         | 3725656     |
-| Robu.in             | 8       | 3909 (COD) | ✓        |               | 3725723     |
-| OnlyScrews          | 4       | 969        | ✓        |               | ONLSCR58241 |
-| MecKeys             | 1       | 1900 (COD) | ✓        |               | 200622      |
-| StacksKB            | 2       | 3170       | ✓        |               | 40166       |
-| MCU Holder 3d print | 5       | 204        | ✓        |               | 3726653     |
+| Item                | Qty     | Cost       | Ordered? | Est. Delivery | Order ID             |
+|---------------------|---------|------------|----------|---------------|----------------------|
+| PCB (single switch) | 25 * 10 | 1114       | ✓        | 03/10         | 3725547              |
+| Case                | 1       | 1223       | ✓        | 03/10         | 3725656              |
+| Robu.in             | 8       | 3909 (COD) | ✓        |               | 3725723              |
+| OnlyScrews          | 4       | 969        | ✓        |               | ONLSCR58241          |
+| MecKeys             | 1       | 1900 (COD) | ✓        | 01/10         | 200622               |
+| StacksKB            | 2       | 3170       | ✓        |               | 40166                |
+| MCU Holder 3d print | 5       | 204        | ✓        |               | 3726653              |
+| Amazon              | 2       | 453        | ✓        | 03/10,04/10   | 408-5696479-2547503  |
+
 
 ### Robu
 
@@ -60,9 +62,15 @@
 
 - Total: ₹3,170.00 (includes ₹483.56 GST)
 
+### Amazon
+
+| Item                                  | Qty | Price |
+|---------------------------------------|-----|-------|
+| Rubber Feet                           | 1   | ₹150  |
+| Copper Wire without enamel (20 guage) | 1   | ₹302  |
+
+- Total: ₹453
+
 ---
 
-Total Cost: ₹12,489
-
-Stuff Left:
-- Rubber Silicone Feet
+Total Cost: ₹12,942
