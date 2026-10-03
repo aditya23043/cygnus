@@ -3,16 +3,17 @@
 
 ## BOM
 
-| Item                | Qty     | Cost       | Ordered? | Est. Delivery | Order ID            | Received on    |
-|---------------------|---------|------------|----------|---------------|---------------------|----------------|
-| PCB (single switch) | 25 * 10 | 1114       | ✓        | 03/10         | 3725547             |                |
-| Case                | 1       | 1223       | ✓        | 03/10         | 3725656             | 03/10 12:00 PM |
-| Robu.in             | 8       | 3909 (COD) | ✓        | -             | 3725723             | 30/09 01:30 PM |
-| OnlyScrews          | 4       | 969        | ✓        | 03/10         | ONLSCR58241         | 03/10 12:00 PM |
-| MecKeys             | 1       | 1900 (COD) | ✓        | 01/10         | 200622              | 30/09 01:30 PM |
-| StacksKB            | 2       | 3170       | ✓        | 05/10         | 40166               | 01/10 09:44 AM |
-| MCU Holder 3d print | 5       | 204        | ✓        |               | 3726653             | 03/10 12:00 PM |
-| Amazon              | 2       | 453        | ✓        | 03/10,04/10   | 408-5696479-2547503 | 02/10, 04/10   |
+| Item                | Qty     | Cost       | Ordered?           | Est. Delivery | Order ID            | Received on    |
+|---------------------|---------|------------|--------------------|---------------|---------------------|----------------|
+| PCB (single switch) | 25 * 10 | 1114       | ✓                  | 03/10         | 3725547             |                |
+| Case                | 1       | 1223       | ✓                  | 03/10         | 3725656             | 03/10 12:00 PM |
+| Robu.in             | 8       | 3909 (COD) | ✓                  | -             | 3725723             | 30/09 01:30 PM |
+| OnlyScrews          | 4       | 969        | ✓                  | 03/10         | ONLSCR58241         | 03/10 12:00 PM |
+| MecKeys             | 1       | 1900 (COD) | ✓                  | 01/10         | 200622              | 30/09 01:30 PM |
+| StacksKB            | 2       | 3170       | ✓                  | 05/10         | 40166               | 01/10 09:44 AM |
+| MCU Holder 3d print | 5       | 204        | ✓                  |               | 3726653             | 03/10 12:00 PM |
+| Amazon              | 2       | 453        | ✓                  | 03/10,04/10   | 408-5696479-2547503 | 02/10, 04/10   |
+| Case (left half)    | 1       | 1146       | ✓ (04/10 02:32 AM) | 08/10         | 3739613             |                |
 
 
 ### Robu
@@ -92,6 +93,6 @@ Sun Oct  4 02:07:08 IST 2026
 
 - As we all know, these builds can never go without any issues in-between
 - So, I have figured out 2 issues as of now:
-	1. I had ordered only right side of the 3d printed case. The left half is pending.
+	1. I had ordered only right side of the 3d printed case. The left half is pending. (resolved ✓)
 	2. I ordered SPDT switch for power-on but that is too big and the one i got for the ferris (SMD)
 	   is too small. Not able to find the one that the original creator of the cygnus used.
