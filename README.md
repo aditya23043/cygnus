@@ -87,7 +87,7 @@ Sun Oct  4 02:07:08 IST 2026
   contents
 
 <p align="center">
-	<img src="./assets/IMG_0932.jpeg" width="50%">
+	<img src="./assets/IMG_0932.png" width="35%">
 </p>
 
 - As we all know, these builds can never go without any issues in-between
