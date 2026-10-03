@@ -14,6 +14,7 @@
 | MCU Holder 3d print | 5       | 204        | ✓                  |               | 3726653             | 03/10 12:00 PM |
 | Amazon              | 2       | 453        | ✓                  | 03/10,04/10   | 408-5696479-2547503 | 02/10, 04/10   |
 | Case (left half)    | 1       | 1146       | ✓ (04/10 02:32 AM) | 08/10         | 3739613             |                |
+| Sharvi Electronics  | 2       | 460        | ✓ (04/10 02:46 AM) | 08/10         | ST031026132710      |                |
 
 
 ### Robu
@@ -72,13 +73,27 @@
 
 - Total: ₹453
 
+### Sharvi Electronics
+
+| Item                                                         | Price                |
+|--------------------------------------------------------------|----------------------|
+| SS-12D00 Mini SPDT Slide Switch Vertical - PCB Mountable × 7 | ₹59.92               |
+| Attiny85 USB Development Board × 1                           | ₹244.21              |
+| Subtotal                                                     | ₹304.13              |
+| Shipping                                                     | ₹85.00 via Flat rate |
+| IGST 18%                                                     | ₹70.05               |
+
+> Attiny85 is not actually used in this project; ordered for another project
+
+- Total: 	₹459.18
+
 ---
 
-Total Cost: ₹12,942
+Total Cost: ₹14,547
 
 Payment Done till now:
 - COD: ₹5,809
-- Online: ₹7,133
+- Online: ₹8,739
 
 ---
 
@@ -95,4 +110,4 @@ Sun Oct  4 02:07:08 IST 2026
 - So, I have figured out 2 issues as of now:
 	1. I had ordered only right side of the 3d printed case. The left half is pending. (resolved ✓)
 	2. I ordered SPDT switch for power-on but that is too big and the one i got for the ferris (SMD)
-	   is too small. Not able to find the one that the original creator of the cygnus used.
+	   is too small. Not able to find the one that the original creator of the cygnus used.  (resolved ✓)
