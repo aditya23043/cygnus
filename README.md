@@ -6,13 +6,13 @@
 | Item                | Qty     | Cost       | Ordered? | Est. Delivery | Order ID            | Received on    |
 |---------------------|---------|------------|----------|---------------|---------------------|----------------|
 | PCB (single switch) | 25 * 10 | 1114       | ✓        | 03/10         | 3725547             |                |
-| Case                | 1       | 1223       | ✓        | 03/10         | 3725656             |                |
+| Case                | 1       | 1223       | ✓        | 03/10         | 3725656             | 03/10 12:00 PM |
 | Robu.in             | 8       | 3909 (COD) | ✓        | -             | 3725723             | 30/09 01:30 PM |
-| OnlyScrews          | 4       | 969        | ✓        | 03/10         | ONLSCR58241         |                |
+| OnlyScrews          | 4       | 969        | ✓        | 03/10         | ONLSCR58241         | 03/10 12:00 PM |
 | MecKeys             | 1       | 1900 (COD) | ✓        | 01/10         | 200622              | 30/09 01:30 PM |
 | StacksKB            | 2       | 3170       | ✓        | 05/10         | 40166               | 01/10 09:44 AM |
-| MCU Holder 3d print | 5       | 204        | ✓        |               | 3726653             |                |
-| Amazon              | 2       | 453        | ✓        | 03/10,04/10   | 408-5696479-2547503 | 01/10, 02/10   |
+| MCU Holder 3d print | 5       | 204        | ✓        |               | 3726653             | 03/10 12:00 PM |
+| Amazon              | 2       | 453        | ✓        | 03/10,04/10   | 408-5696479-2547503 | 02/10, 04/10   |
 
 
 ### Robu
@@ -78,3 +78,20 @@ Total Cost: ₹12,942
 Payment Done till now:
 - COD: ₹5,809
 - Online: ₹7,133
+
+---
+
+Sun Oct  4 02:07:08 IST 2026
+
+- Received all the packages except for the PCB and decided to open all of them up to verify the
+  contents
+
+<p align="center">
+	<img src="./assets/IMG_0932.jpeg" width="50%">
+</p>
+
+- As we all know, these builds can never go without any issues in-between
+- So, I have figured out 2 issues as of now:
+	1. I had ordered only right side of the 3d printed case. The left half is pending.
+	2. I ordered SPDT switch for power-on but that is too big and the one i got for the ferris (SMD)
+	   is too small. Not able to find the one that the original creator of the cygnus used.
