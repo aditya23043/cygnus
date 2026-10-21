@@ -13,8 +13,8 @@
 | StacksKB            | 2       | 3170       | ✓                  | 05/10         | 40166               | 01/10 09:44 AM |
 | MCU Holder 3d print | 5       | 204        | ✓                  |               | 3726653             | 03/10 12:00 PM |
 | Amazon              | 2       | 453        | ✓                  | 03/10,04/10   | 408-5696479-2547503 | 02/10, 04/10   |
-| Case (left half)    | 1       | 1146       | ✓ (04/10 02:32 AM) | 08/10         | 3739613             |                |
-| Sharvi Electronics  | 2       | 460        | ✓ (04/10 02:46 AM) | 08/10         | ST031026132710      |                |
+| Case (left half)    | 1       | 1146       | ✓ (04/10 02:32 AM) | 08/10         | 3739613             | 09/10 11:55 AM |
+| Sharvi Electronics  | 2       | 460        | ✓ (04/10 02:46 AM) | 08/10         | ST031026132710      | 10/10 07:00 PM |
 
 
 ### Robu
@@ -111,3 +111,11 @@ Sun Oct  4 02:07:08 IST 2026
 	1. I had ordered only right side of the 3d printed case. The left half is pending. (resolved ✓)
 	2. I ordered SPDT switch for power-on but that is too big and the one i got for the ferris (SMD)
 	   is too small. Not able to find the one that the original creator of the cygnus used.  (resolved ✓)
+
+--- 
+
+Wed Oct 21 13:48:16 IST 2026
+
+- Most of the items received by 1st week / mid-2nd week of October
+- Now, just waiting for the PCBs to arrive before I can start the assembly
+- They have been shipped and are expected to arrive tomorrow (22/10/26)
