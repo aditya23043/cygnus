@@ -5,7 +5,7 @@
 
 | Item                | Qty     | Cost       | Ordered?           | Est. Delivery | Order ID            | Received on    |
 |---------------------|---------|------------|--------------------|---------------|---------------------|----------------|
-| PCB (single switch) | 25 * 10 | 1114       | ✓                  | 03/10         | 3725547             |                |
+| PCB (single switch) | 25 * 10 | 1114       | ✓                  | 03/10         | 3725547             | 22/10 01:23 PM |
 | Case                | 1       | 1223       | ✓                  | 03/10         | 3725656             | 03/10 12:00 PM |
 | Robu.in             | 8       | 3909 (COD) | ✓                  | -             | 3725723             | 30/09 01:30 PM |
 | OnlyScrews          | 4       | 969        | ✓                  | 03/10         | ONLSCR58241         | 03/10 12:00 PM |
@@ -15,6 +15,7 @@
 | Amazon              | 2       | 453        | ✓                  | 03/10,04/10   | 408-5696479-2547503 | 02/10, 04/10   |
 | Case (left half)    | 1       | 1146       | ✓ (04/10 02:32 AM) | 08/10         | 3739613             | 09/10 11:55 AM |
 | Sharvi Electronics  | 2       | 460        | ✓ (04/10 02:46 AM) | 08/10         | ST031026132710      | 10/10 07:00 PM |
+| Amazon (sandpaper)  | 1       | 182        | ✓ (23/10 01:45 PM) | 28/10         | 404-6356444-6121111 |                |
 
 
 ### Robu
@@ -119,3 +120,22 @@ Wed Oct 21 13:48:16 IST 2026
 - Most of the items received by 1st week / mid-2nd week of October
 - Now, just waiting for the PCBs to arrive before I can start the assembly
 - They have been shipped and are expected to arrive tomorrow (22/10/26)
+
+---
+
+Fri Oct 23 15:14:54 IST 2026
+
+- Received the PCBs ($5*5*10$) yesterday afternoon but I realized that I will need to clip the
+  individual key PCBs out of the main board and then file off the side bits in order to properly
+  mount the pcb to the case.
+- I already have sandpaper but it ranges from 600 grits to 2000 grits which is great for fine
+  filing.
+- For this purpose, I ordered the following sandpapers:
+    - 3 x 80 grit
+    - 3 x 100 grit
+    - 3 x 120 grit
+
+```
+Item: Color Zebra® Sanding Paper/Emery Paper/Sandpaper (Brown, Grit-80-3pcs 100-3pcs 120-3pcs) Pack of 9 sheets 
+ASIN: B0BSX578XQ
+```
